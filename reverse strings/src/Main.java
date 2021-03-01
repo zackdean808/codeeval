@@ -10,7 +10,6 @@ public class Main {
 		// System.out.println(flip(s));
 		//System.out.println(flip(s1));
 		
-		
 		flip(s);
 		System.out.println();
 		flip(s1);
